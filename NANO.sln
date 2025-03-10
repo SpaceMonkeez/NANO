@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NANO", "src\NANO\NANO.csproj", "{C069480C-6120-4114-9686-7605EA4693C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Deploy|Any CPU = Deploy|Any CPU
+		DeployAndRun|Any CPU = DeployAndRun|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C069480C-6120-4114-9686-7605EA4693C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C069480C-6120-4114-9686-7605EA4693C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C069480C-6120-4114-9686-7605EA4693C6}.Deploy|Any CPU.ActiveCfg = Deploy|Any CPU
+		{C069480C-6120-4114-9686-7605EA4693C6}.Deploy|Any CPU.Build.0 = Deploy|Any CPU
+		{C069480C-6120-4114-9686-7605EA4693C6}.DeployAndRun|Any CPU.ActiveCfg = DeployAndRun|Any CPU
+		{C069480C-6120-4114-9686-7605EA4693C6}.DeployAndRun|Any CPU.Build.0 = DeployAndRun|Any CPU
+		{C069480C-6120-4114-9686-7605EA4693C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C069480C-6120-4114-9686-7605EA4693C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CAA43DF-DA92-4DC3-80FB-6432D7C52648}
+	EndGlobalSection
+EndGlobal
